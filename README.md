@@ -28,7 +28,7 @@ pynput
 
 📦 Installation
 
-git clone https://github.com/your-username/virtual-ai-keyboard.git
+git clone https://github.com/Anirudh-saiA/VirtualKeyboard
 cd virtual-ai-keyboard
 pip install -r requirements.txt
 python main.py
